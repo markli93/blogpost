@@ -1,5 +1,5 @@
 # blogpost
 
-This is a app built with Node + Express.
+This is a Node + Express app.
 
 Please install all dependencies before running.
